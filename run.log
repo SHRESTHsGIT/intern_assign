@@ -1,0 +1,24 @@
+2026-02-21 06:38:50 - INFO - Job started
+2026-02-21 06:38:50 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 06:38:50 - INFO - Data loaded: 10000 rows
+2026-02-21 06:38:50 - INFO - Rolling mean calculated with window=5
+2026-02-21 06:38:50 - INFO - Signals generated
+2026-02-21 06:38:50 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-21 06:38:50 - INFO - Job completed successfully in 24ms
+2026-02-21 07:13:28 - INFO - Job started
+2026-02-21 07:13:28 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 07:13:29 - INFO - Data loaded: 2158480 rows
+2026-02-21 07:13:29 - INFO - Rolling mean calculated with window=5
+2026-02-21 07:13:29 - INFO - Signals generated
+2026-02-21 07:13:29 - INFO - Metrics: signal_rate=0.5293, rows_processed=2158480
+2026-02-21 07:13:29 - INFO - Job completed successfully in 770ms
+2026-02-21 07:13:44 - INFO - Job started
+2026-02-21 07:13:44 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 07:13:45 - ERROR - Job failed: CSV is missing required columns: {'close'}
+2026-02-21 07:16:47 - INFO - Job started
+2026-02-21 07:16:47 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 07:16:48 - INFO - Data loaded: 2158480 rows
+2026-02-21 07:16:48 - INFO - Rolling mean calculated with window=5
+2026-02-21 07:16:48 - INFO - Signals generated
+2026-02-21 07:16:48 - INFO - Metrics: signal_rate=0.5293, rows_processed=2158480
+2026-02-21 07:16:48 - INFO - Job completed successfully in 1416ms
